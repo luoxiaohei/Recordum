@@ -1,0 +1,29 @@
+# site title
+title: lSHANG's Blog
+
+# user name or organization name
+user: luoxiaohei
+
+# issue repository
+repository: recordum
+
+# multi-author
+authors: lshang
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 9#0cb5483d285f48890f1ede48da179ede7ac274e
+
+# posts per page
+perpage: 7
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'CREATED_AT'
